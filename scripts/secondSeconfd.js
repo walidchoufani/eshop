@@ -3,6 +3,7 @@
 write=nobody
 execute=authenticated 
   **/ 
- var log = require("log");
+ //adding comments.
+var log = require("log");
 console.log("--------------------12323")
-return {"<script>alert(\"234\")<script>": "<script>alert(\"234\")<script>" }   							
+return {"<script>alert(\"234\")<script>": "<script>alert(\"234\")<script>" }   				   							
